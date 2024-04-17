@@ -1,5 +1,5 @@
 # Hey there ^_^
-<div align="center">
+<div align="left">
   <img src="https://preview.redd.it/cbcrrm524vq21.jpg?auto=webp&s=0c65fae58964158df476ef679b317b1f6bfcce96" height="300" width="300"/>
 </div>
 
