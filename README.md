@@ -7,6 +7,6 @@ I'm currently studying a BSc in Software Engineering at the University of Portsm
 - JavaScript
 - pSQL
 
-## My stats 🔥:
+## My stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pauchxk&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauchxk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
