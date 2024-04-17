@@ -1,10 +1,9 @@
-# Hey there ^_^
+# Hey there 👋
 <div align="left">
-  <img src="https://preview.redd.it/cbcrrm524vq21.jpg?auto=webp&s=0c65fae58964158df476ef679b317b1f6bfcce96" height="300" width="300"/>
+  <img src="https://preview.redd.it/cbcrrm524vq21.jpg?auto=webp&s=0c65fae58964158df476ef679b317b1f6bfcce96" height="300" width="500"/>
 </div>
 
 ## About me
-
 I'm currently studying a BSc in Software Engineering at the University of Portsmouth. Here you'll find all my uni projects, Leetcode solves, personal projects and more. I mainly use Python, but I'm currently learning a multitude of languages:
 - Dart
 - HTML
