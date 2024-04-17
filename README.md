@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there ^_^
 I'm currently studying a BSc in Software Engineering at the University of Portsmouth. Here you'll find all my uni projects, Leetcode solves, personal projects and more. I mainly use Python, but I'm currently learning a multitude of languages:
 - Dart
 - HTML
