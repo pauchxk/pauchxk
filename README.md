@@ -4,14 +4,13 @@
 </div>
 
 ## About me 🏄‍♂️
-I'm currently studying a BSc in Software Engineering at the University of Portsmouth. Here you'll find all my uni projects, Leetcode solves, personal projects and more. I mainly use Python, but I'm currently learning a multitude of languages:
-- Dart
-- Flutter
+I'm on a degree apprenticeship in Data Analytics in the aerospace industry, studying for a BSc in Digital and Technology Solutions. I'm proficient in a number of languages:
+- Python
+- C#
 - HTML
-- CSS
-- C++
-- JavaScript
-- pSQL
+- SQL
+
+Here you'll find some uni work, leetcode solves, and any personal projects I'm working on.
 
 ## My stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pauchxk&theme=dark&background=000000)](https://git.io/streak-stats)
