@@ -4,7 +4,7 @@
 </div>
 
 ## About me 🏄‍♂️
-I'm on a degree apprenticeship in Data Analytics in the aerospace industry, studying for a BSc in Digital and Technology Solutions. I'm proficient in a number of languages:
+I'm a degree apprentice in the aerospace industry, studying for a BSc in Digital and Technology Solutions on the Data Analytics pathway. I'm proficient in a number of languages:
 - Python
 - C#
 - HTML
