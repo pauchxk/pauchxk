@@ -11,9 +11,7 @@ I'm a degree apprentice in the aerospace industry, studying for a BSc in Digital
 - HTML
 - SQL
 
-And I've been working primarily with the Blazor framework, as well as ASP.NET and Entity Framework.
-
-Here you'll find some uni work, leetcode solves, and any personal projects I'm working on.
+I've been working primarily with the Blazor framework, as well as ASP.NET and EF Core. Here you'll find some uni work, leetcode solves, and any personal projects I'm working on.
 
 ## My stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pauchxk&theme=dark&background=000000)](https://git.io/streak-stats)
