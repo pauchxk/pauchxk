@@ -6,9 +6,12 @@
 ## About me 🏄‍♂️
 I'm a degree apprentice in the aerospace industry, studying for a BSc in Digital and Technology Solutions on the Data Analytics pathway. I'm proficient in a number of languages:
 - Python
+- Razor
 - C#
 - HTML
 - SQL
+
+And I've been working primarily with the Blazor framework, as well as ASP.NET and Entity Framework.
 
 Here you'll find some uni work, leetcode solves, and any personal projects I'm working on.
 
