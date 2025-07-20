@@ -5,8 +5,8 @@
 
 ## About me 🏄‍♂️
 I'm a degree apprentice in the aerospace industry, studying for a BSc in Digital and Technology Solutions - Data Analytics. I'm proficient in a number of languages:
+- Blazor
 - Python
-- Razor
 - C#
 - HTML
 - SQL
