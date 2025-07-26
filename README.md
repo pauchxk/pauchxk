@@ -5,11 +5,10 @@
 
 ## About me 🏄‍♂️
 I'm a data analyst in the aerospace sector - proficient in a number of languages:
-- Blazor
-- Python
 - C#
-- HTML
+- Python
 - SQL
+- HTML
 
 Here you'll find some uni work, leetcode solves, and any personal projects I'm working on.
 
