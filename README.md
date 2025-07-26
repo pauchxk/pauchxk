@@ -3,8 +3,7 @@
   <img src="https://preview.redd.it/cbcrrm524vq21.jpg?auto=webp&s=0c65fae58964158df476ef679b317b1f6bfcce96" height="300" width="400"/>
 </div>
 
-## About me 🏄‍♂️
-I'm a data analyst in the aerospace sector - proficient in a number of languages:
+I primarily work with these languages:
 - C#
 - Python
 - SQL
