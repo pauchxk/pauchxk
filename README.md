@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://preview.redd.it/cbcrrm524vq21.jpg?auto=webp&s=0c65fae58964158df476ef679b317b1f6bfcce96" height="300" width="400"/>
 </div>
+
 # About me
 I primarily work with these languages:
 - C#
