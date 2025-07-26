@@ -4,14 +4,14 @@
 </div>
 
 ## About me 🏄‍♂️
-I'm a degree apprentice in the aerospace industry, studying for a BSc in Digital and Technology Solutions - Data Analytics. I'm proficient in a number of languages:
+I'm a data analyst in the aerospace sector - proficient in a number of languages:
 - Blazor
 - Python
 - C#
 - HTML
 - SQL
 
-I've been working primarily with Blazor, ASP.NET, and EF Core. Here you'll find some uni work, leetcode solves, and any personal projects I'm working on.
+Here you'll find some uni work, leetcode solves, and any personal projects I'm working on.
 
 ## My stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pauchxk&theme=dark&background=000000)](https://git.io/streak-stats)
