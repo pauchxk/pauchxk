@@ -3,11 +3,11 @@
 </div>
 
 # About me
-I primarily work with these languages:
+Languages I work with:
+- C++
 - C#
-- Python
 - SQL
-- HTML
+- Python
 
 Here you'll find some uni work, leetcode solves, and any personal projects I'm working on.
 
